@@ -3,7 +3,7 @@
 Example SaltStack pillar configurations
 
 ## SaltStack - Master
-/etc/salt/master
+*/etc/salt/master*
 
 ```
 ##########################################
