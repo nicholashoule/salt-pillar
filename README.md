@@ -2,6 +2,8 @@
 
 Example SaltStack pillar configurations
 
+This repo is intended to be used in conjunction with my salt-states repo found here: https://github.com/nicholashoule/salt-states. You may use your own salt-states repo and/or reference local files in your file_roots settings.
+
 ## SaltStack - Master
 */etc/salt/master*
 
